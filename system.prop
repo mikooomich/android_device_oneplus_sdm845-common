@@ -9,6 +9,7 @@ camera.disable_zsl_mode=true
 persist.camera.assert.panic=true
 persist.vendor.camera.sceneclassify.enable=0
 ro.opcamera.support=true
+persist.vendor.camera.sceneclassify.enable=0
 
 # Charger
 ro.charger.disable_init_blank=true
