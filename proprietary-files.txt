@@ -539,7 +539,7 @@ system_ext/framework/vendor.qti.ims.rcssip-V1.2-java.jar|cf7169522f3e94043f6e136
 system_ext/framework/vendor.qti.ims.rcsuce-V1.0-java.jar|53e0696f5f15f26ce7a68a4f4b304f426f447644
 system_ext/framework/vendor.qti.ims.rcsuce-V1.1-java.jar|1aacd3ff385e32c6a143a2c65b31b21a2b80e8df
 system_ext/framework/vendor.qti.ims.rcsuce-V1.2-java.jar|4dc1b0f7afb2df9a41cd341296913941014388fd
-system_ext/lib64/com.qualcomm.qti.imscmservice@1.0.so|8fca9b1a9409d1988cc27826f8bf1c7030cd10cc
+system_ext/lib64/com.qualcomm.qti.imscmservice@1.0.so|6041113b31903b84a31249bebb94f3c90eab72b9
 system_ext/lib64/com.qualcomm.qti.imscmservice@2.0.so|bfab00d1e634b3455324e33b6a95dbdcf693787c
 system_ext/lib64/com.qualcomm.qti.imscmservice@2.1.so|7d1ffd881590b235215573c5b040774d730fffb2
 system_ext/lib64/com.qualcomm.qti.imscmservice@2.2.so|a7786dd8389d2193ebe9b56a66bb38e7f54333e0
@@ -1246,7 +1246,7 @@ system_ext/lib64/libwfddisplayconfig.so|59a5cb17ffe46900c0ae26a8937a5ddab80fe283
 system_ext/lib64/libwfdmminterface.so|b1e33104bc2231c7f75132757a28c918ee4b3889
 system_ext/lib64/libwfdmmsink.so|0db18686f52492b89d9feffffd0494371f6a8c18
 system_ext/lib64/libwfdmmsrc_system.so|d46d868c7047927c7da7cc3f7274177de655de7d
-system_ext/lib64/libwfdnative.so|bf8b8596431d578f12f9eead38b5afbb4c54a008
+system_ext/lib64/libwfdnative.so|404f10e0705c831fa3b4add6cab5e58479df920a
 system_ext/lib64/libwfdrtsp.so|1957934068e8befa237106fbc584457e86ef07da
 system_ext/lib64/libwfdservice.so|b0e0b2059142168e856d66cc34448704849f14b4
 system_ext/lib64/libwfdsinksm.so|bd2369a1203a3b24115605ec1d27d288b4b62718
