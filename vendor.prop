@@ -173,9 +173,6 @@ persist.sys.oem.otg_support=true
 vendor.pasr.activemode.enabled=true
 vendor.power.pasr.enabled=false
 
-# Perf
-ro.vendor.extension_library=libqti-perfd-client.so
-
 # Radio
 persist.radio.multisim.config=dsds
 persist.vendor.data.iwlan.enable=true
