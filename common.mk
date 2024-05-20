@@ -344,8 +344,7 @@ PRODUCT_BOOT_JARS += \
 PRODUCT_PACKAGES += \
     android.hardware.power-service.lineage-libperfmgr \
     android.hardware.power-service-qti \
-    libqti-perfd-client \
-    vendor.qti.hardware.perf@2.2.vendor
+    libqti-perfd-client
 
 # QMI
 PRODUCT_PACKAGES += \
